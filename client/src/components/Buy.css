@@ -1,0 +1,29 @@
+.buy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 100%;
+    padding: 6px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    box-sizing: border-box;
+    border-radius: 1px;
+}
+
+.button{
+    margin: 6px;
+    width: 15%;
+    border-radius: 10px;
+    padding: 6px;
+    background-color: #002ead;
+    color: white;
+}
+
+.button:hover{
+    background-color: rgb(72, 68, 68);
+    transition: 0.7s;
+}

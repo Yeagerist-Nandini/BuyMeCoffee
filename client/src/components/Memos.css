@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.memo{
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+td,tr{
+    border: 1px solid #ddd;
+    background-color: #96D4D4;
+    padding: 8px;
+}
